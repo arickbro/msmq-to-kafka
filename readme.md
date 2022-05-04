@@ -16,3 +16,10 @@ edit the MSMQ queue name and kafka bootstrap server
 
 to run:
 python consumer.py
+
+
+docs 
+https://docs.microsoft.com/en-us/dotnet/api/system.messaging.message?view=netframework-4.8
+
+install as service 
+https://nssm.cc/usage
